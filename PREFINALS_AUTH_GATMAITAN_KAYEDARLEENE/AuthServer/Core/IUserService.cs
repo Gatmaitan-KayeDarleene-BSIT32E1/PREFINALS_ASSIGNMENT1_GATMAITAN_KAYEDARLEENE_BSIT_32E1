@@ -1,8 +1,9 @@
 ﻿namespace AuthServer.Core
 {
-    public interface IAuthService
+    public interface IUserService
     {
-        Task<string> GenerateJwtTokenAsync(User user);
+        Task<User> GetUserAsync(string username);
+        Task<bool> CreateUserAsync(User user);
 
     }
 }
