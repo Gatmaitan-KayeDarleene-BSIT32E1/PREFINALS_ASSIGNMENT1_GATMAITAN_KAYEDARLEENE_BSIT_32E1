@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bf5zezMqBR93KejT0QH+ai7A1QzCFJcWXj4DV7BbnFybdXpW43Z26VWsC12FqrZVP4uyEdZhP9gObULO2ZwDBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\ProtectedApi\\ProtectedApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
