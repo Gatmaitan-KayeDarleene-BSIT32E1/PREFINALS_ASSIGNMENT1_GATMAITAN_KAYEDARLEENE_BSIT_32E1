@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98A7EBF1-7691-4B59-AE67-6A09D08A7421}|AuthServer\\AuthServer.csproj|c:\\users\\kaye gat\\desktop\\prefinals_assignment1_gatmaitan_kayedarleene_bsit_32e1\\prefinals_auth_gatmaitan_kayedarleene\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Program.cs",
               "RelativeDocumentMoniker": "AuthServer\\Program.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "AuthServer\\Models\\LoginRequest.cs",
@@ -80,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Controllers\\AuthController.cs",
               "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwC4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T16:37:04.257Z",
               "EditorCaption": ""
@@ -99,27 +99,27 @@
               "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
               "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Core\\IAuthService.cs",
               "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T16:34:59.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Core\\IUserService.cs",
               "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
               "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Core\\IUserService.cs",
               "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T16:33:48.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINALS_ASSIGNMENT1_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\PREFINALS_AUTH_GATMAITAN_KAYEDARLEENE\\AuthServer\\Core\\User.cs",
               "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
